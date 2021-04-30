@@ -1,6 +1,6 @@
 # Fake Reviews Classification with Emotion Features
 
-This repository contains code and data used for completion of final year project on exploration of emotion feature influence in fake review detection for Amazon reviews.
+This repository contains code and data used for completion of final year project on exploration of emotion features' influence in fake review detection for Amazon reviews.
 
 The repository is organised as follows:
 - <tt>data</tt> contains all datasets (and some plots) used to obtain classification results and obtained throughout the project. Within the directory, the following files can be located:
